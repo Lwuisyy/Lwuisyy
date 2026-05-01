@@ -38,30 +38,6 @@
 
 ---
 
-## ✦ Currently Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n%20Automation-0e75b6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Integration-0e75b6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python%20Scripting-0e75b6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Workflow%20Automation-0e75b6?style=for-the-badge" />
-</p>
-
----
-
-## ✦ Featured Projects
-<p align="left">
-  <a href="https://github.com/lwuisy/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lwuisy&repo=project-1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/lwuisy/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lwuisy&repo=project-2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-> Ganti `project-1` dan `project-2` sesuai repository kamu yang paling bagus.
-
----
-
 ## ✦ What I'm Working On
 - Building projects that solve real problems
 - Improving logic, consistency, and code quality
