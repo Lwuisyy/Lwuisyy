@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/JavaScript-0e75b6?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-0e75b6?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-0e75b6?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-0e75b6?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
