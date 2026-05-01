@@ -24,15 +24,37 @@
 ---
 
 ## ✦ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,mysql,git,vscode,linux" />
+
+<p align="center">
+  <i>Tools and technologies I use to build, automate, and ship ideas.</i>
 </p>
 
-<p align="left">
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <strong>Languages</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+    </td>
+    <td align="center" width="25%">
+      <strong>Frontend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+    </td>
+    <td align="center" width="25%">
+      <strong>Backend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" />
+    </td>
+    <td align="center" width="25%">
+      <strong>Tools</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=git,vscode,linux,docker" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-0e75b6?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-0e75b6?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-0e75b6?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-0e75b6?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-0e75b6?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-0e75b6?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
