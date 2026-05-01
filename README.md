@@ -1,16 +1,16 @@
-<!-- Banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e1e2f&height=200&section=header&text=Lwuisy&fontSize=50&fontAlignY=35&desc=Building%20cool%20things%20with%20code&descAlignY=55&descSize=18&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Lwuisy&fontSize=58&fontAlignY=32&desc=Building%20cool%20things%20with%20code%20%2B%20automation&descAlignY=55&descSize=18&fontColor=ffffff&color=0:0f172a,50:0e75b6,100:1e293b" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Python+Developer;Automation+Builder;n8n+Enthusiast;Turning+Ideas+Into+Real+Tools" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lwuisy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/lwuisy?label=Followers&style=flat&color=0e75b6" alt="followers" />
   <img src="https://img.shields.io/badge/Focus-Automation-0e75b6?style=flat" alt="focus" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Python+Developer;Automation+Builder;n8n+Enthusiast;Turning+Ideas+Into+Real+Tools" alt="Typing SVG" />
 </p>
 
 ---
@@ -65,27 +65,10 @@
 
 ---
 
-## ✦ Trophy Room
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lwuisy&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## ✦ Fun Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Simple-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mindset-Consistent-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Style-Minimal%20Aesthetic-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Build%20-%20Repeat-0e75b6?style=flat-square" />
-</p>
-
----
-
 <p align="center">
   <i>Code. Learn. Build. Repeat.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:0e75b6&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e293b,50:0e75b6,100:0f172a" />
 </p>
